@@ -1,2 +1,2 @@
-# VTYS-Project
-VTYS(DBMS) Final Projesi
+# Veritabanı Yönetim Sistemleri Dersindeki Final Projem
+DataBaseManagementSystem Final Projesi
